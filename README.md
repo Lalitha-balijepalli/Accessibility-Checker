@@ -176,10 +176,10 @@ These results are realistic and align with how professional accessibility tools 
 
 ## 👤 Authors
 
-**Balijepalli Vijaya Lalitha**
-**Allam Aswitha**
-**Shaik Nishmitha**
-**Nalluri Madhuri**
+**Balijepalli Vijaya Lalitha**,
+**Allam Aswitha**,
+**Shaik Nishmitha**,
+**Nalluri Madhuri**,
 BTech Students | Data Science | NRIIT Agiripalli
 
 
