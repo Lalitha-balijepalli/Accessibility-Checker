@@ -1,0 +1,4 @@
+project_id = "wizqyvukdmvfcmngbnvo"
+
+[functions.analyze-accessibility]
+verify_jwt = false
